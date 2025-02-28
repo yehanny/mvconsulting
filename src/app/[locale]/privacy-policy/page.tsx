@@ -16,6 +16,8 @@ export async function generateMetadata(props: { params: { locale: string } }) {
   };
 }
 
+export const dynamic = 'force-dynamic';
+
 const PrivacyPolicy = (props: { params: { locale: string } }) => {
   const t = useTranslations('PrivacyPolicy');
   unstable_setRequestLocale(props.params.locale);

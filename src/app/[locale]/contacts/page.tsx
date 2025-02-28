@@ -16,6 +16,8 @@ export async function generateMetadata(props: { params: { locale: string } }) {
   };
 }
 
+export const dynamic = 'force-dynamic';
+
 const GoogleMap = () => {
   return (
     <iframe
