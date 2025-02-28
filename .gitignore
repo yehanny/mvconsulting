@@ -49,3 +49,6 @@ local
 
 # vercel
 .vercel
+
+# production folder
+.env.production

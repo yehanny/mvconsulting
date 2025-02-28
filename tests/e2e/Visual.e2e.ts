@@ -6,17 +6,17 @@ test.describe('Visual testing', () => {
     test('should take screenshot of the homepage', async ({ page }) => {
       await page.goto('/');
 
-      await expect(page.getByText('The perfect SaaS template to build')).toBeVisible();
+      await expect(page.getByText('MV Consulting')).toBeVisible();
 
       await percySnapshot(page, 'Homepage');
     });
 
-    test('should take screenshot of the French homepage', async ({ page }) => {
-      await page.goto('/fr');
+    test('should take screenshot of the Spanish homepage', async ({ page }) => {
+      await page.goto('/es');
 
-      await expect(page.getByText('Le parfait SaaS template pour construire')).toBeVisible();
+      await expect(page.getByText('MV Consulting')).toBeVisible();
 
-      await percySnapshot(page, 'Homepage - French');
+      await percySnapshot(page, 'Homepage - Spanish');
     });
   });
 });

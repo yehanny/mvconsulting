@@ -1,14 +1,11 @@
 import { getTranslations, unstable_setRequestLocale } from 'next-intl/server';
 
+import { Asylum } from '@/templates/Asylum';
 import { CTA } from '@/templates/CTA';
-import { DemoBanner } from '@/templates/DemoBanner';
-import { FAQ } from '@/templates/FAQ';
-import { Features } from '@/templates/Features';
-import { Footer } from '@/templates/Footer';
 import { Hero } from '@/templates/Hero';
-import { Navbar } from '@/templates/Navbar';
-import { Pricing } from '@/templates/Pricing';
-import { Sponsors } from '@/templates/Sponsors';
+import { ImmigrationExpert } from '@/templates/ImmigrationExperts';
+import { Nationality } from '@/templates/Nationality';
+import { Services } from '@/templates/Services';
 
 export async function generateMetadata(props: { params: { locale: string } }) {
   const t = await getTranslations({
@@ -27,15 +24,12 @@ const IndexPage = (props: { params: { locale: string } }) => {
 
   return (
     <>
-      <DemoBanner />
-      <Navbar />
       <Hero />
-      <Sponsors />
-      <Features />
-      <Pricing />
-      <FAQ />
+      <Services />
+      <ImmigrationExpert />
+      <Nationality />
+      <Asylum />
       <CTA />
-      <Footer />
     </>
   );
 };

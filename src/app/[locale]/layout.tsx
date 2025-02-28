@@ -3,8 +3,11 @@ import '@/styles/global.css';
 import type { Metadata } from 'next';
 import { NextIntlClientProvider, useMessages } from 'next-intl';
 import { unstable_setRequestLocale } from 'next-intl/server';
+import { Toaster } from 'react-hot-toast';
 
-import { DemoBadge } from '@/components/DemoBadge';
+import { Footer } from '@/templates/Footer';
+import { Navbar } from '@/templates/Navbar';
+import { StickyTopBanner } from '@/templates/StickyTopBanner';
 import { AllLocales } from '@/utils/AppConfig';
 
 export const metadata: Metadata = {
@@ -58,9 +61,27 @@ export default function RootLayout(props: {
           locale={props.params.locale}
           messages={messages}
         >
+          <StickyTopBanner />
+          <Navbar />
           {props.children}
-
-          <DemoBadge />
+          <Footer />
+          <Toaster
+            position="bottom-center"
+            reverseOrder={false}
+            gutter={8}
+            containerClassName=""
+            containerStyle={{}}
+            toastOptions={{
+              // Define default options
+              className: '',
+              duration: 5000,
+              style: {
+                background: '#0d567f',
+                color: '#fff',
+                padding: '16px',
+              },
+            }}
+          />
         </NextIntlClientProvider>
       </body>
     </html>

@@ -2,7 +2,7 @@ import { useTranslations } from 'next-intl';
 import React from 'react';
 
 export const CenteredFooter = (props: {
-  logo: React.ReactNode;
+  logo?: string;
   name: string;
   iconList: React.ReactNode;
   legalLinks: React.ReactNode;
@@ -29,18 +29,12 @@ export const CenteredFooter = (props: {
             author: () => (
               <a
                 className="text-blue-500 hover:text-blue-600"
-                href="https://creativedesignsguru.com"
+                href="https://beyondsa.net"
               >
-                Creative Designs Guru
+                beyondsa.net
               </a>
             ),
           })}
-          {/*
-           * PLEASE READ THIS SECTION
-           * I'm an indie maker with limited resources and funds, I'll really appreciate if you could have a link to my website.
-           * The link doesn't need to appear on every pages, one link on one page is enough.
-           * For example, in the `About` page. Thank you for your support, it'll mean a lot to me.
-           */}
         </div>
 
         <ul className="flex gap-x-4 font-medium [&_a:hover]:opacity-100 [&_a]:opacity-60">

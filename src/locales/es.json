@@ -1,0 +1,275 @@
+{
+  "Index": {
+    "meta_title": "MV Consulting",
+    "meta_description": "Empresa de servicios integrales en el área de inmigración y legal"
+  },
+  "StickyTopBanner": {
+    "banner_title": "Recordatorio",
+    "banner_description": "INICIO DE LA TEMPORADA DE IMPUESTOS"
+  },
+  "Navbar": {
+    "home": "Inicio",
+    "about_us": "Nosotros",
+    "services": "Servicios",
+    "requests": "Solicitudes",
+    "contacts": "Contactos",
+    "sign_in": "Iniciar sesión",
+    "sign_up": "Registrarse"
+  },
+  "Hero": {
+    "follow_instagram": "Sigueme @mvconsultingusa en Instagram",
+    "title": "Bienvenido a <important>MV Consulting</important>",
+    "description": "Empresa de servicios integrales en el área de inmigración y legalidales",
+    "primary_button": "Empezar",
+    "secondary_button": "Comenzar con Nosotros"
+  },
+  "Services": {
+    "section_subtitle": "Servicios",
+    "section_title": "Servicios de inmigración y legalidades",
+    "section_description": "Empresa de servicios integrales en el área de inmigración y legal",
+    "service1_title": "Preparación de impuestos",
+    "service1_description": "Declaraciones precisas y eficientes, maximixando sus deducciones",
+    "service2_title": "Servicios de inmigración",
+    "service2_description": "Asesoría integral en procesos migratorios, inluyendo ciudadanías, residencias, asilo, permisos de trabajo TPS",
+    "service3_title": "Seguros de salud",
+    "service3_description": "Seguros de salud para empleados y dependientes, con coberturas médicas y de gastos médicos, incluyendo asistencia médica, gastos médicos, y asistencia dental, y más",
+    "service4_title": "Servicios de traducción",
+    "service4_description": "Traducción de documentos, contratos, documentos legales, y más para garantizar una comunicación efectiva",
+    "service5_title": "Servicios de notaría",
+    "service5_description": "Asesoría legal en procesos notariales para autenticación de documentos, contratos, y más",
+    "service6_title": "Servicios de asilos",
+    "service6_description": "Asesoría legal en procesos de asilo, incluyendo asesoría en procesos de asilo político, asilo humanitario, y más"
+  },
+  "ImmigrationExpert": {
+    "section_subtitle": "Inmigración y legalidades",
+    "section_title": "Expertos en inmigración",
+    "section_description": "Tus formas, nuestras manos",
+    "button_text": "Solicitar una cita",
+    "immigration1_title": "Immigración",
+    "immigration1_description": "Nuestra experiencia en inmigración te brinda tranquilidad. Te guiaremos en cada paso del proceso migratorio",
+    "immigration2_title": "Preparación de formas",
+    "immigration2_description": "No te arriesgues a errores costosos. Dejamos tus formularios en las mejores manos"
+  },
+  "Nationality": {
+    "section_subtitle": "Nacionalidades",
+    "section_title": "Ciudadanía y residencia",
+    "section_description": "Tus sueños, nuestra experiencia",
+    "nationality1_title": "Formularios de ciudadanía",
+    "nationality1_description": "Te ayudamos a alcanzar la cuidadanía de los Estados Unidos",
+    "nationality2_title": "Residencia permanente",
+    "nationality2_description": "Te ayudamos en la solicitud y obtención de la tarjeta verde"
+  },
+  "CTA": {
+    "title": "¿Necesitas ayuda?",
+    "description": "Atenderemos a la brevedad posible tu solicitud de información",
+    "button_text": "Contáctanos"
+  },
+  "Asylum": {
+    "section_subtitle": "Asilo",
+    "section_title": "Asilo, Permisos de trabajo y TPS",
+    "section_description": "Tu protección, nuestra prioridad",
+    "asylum1_title": "Solicitud de asilo",
+    "asylum1_description": "Te ayudamos en el proceso de asilo político en los Estados Unidos",
+    "asylum2_title": "Permisos de trabajo",
+    "asylum2_description": "Te ayudamos a obtener permisos para trabajar legalmente en los Estados Unidos",
+    "asylum3_title": "TPS",
+    "asylum3_description": "Te asesoramos sobre la protección temporal y los beneficios del TPS"
+  },
+  "TaxSeason": {
+    "meta_title": "MV Consulting - Temporada de impuestos",
+    "meta_description": "¡La temporada de impuestos ha comenzado y estoy aquí para ayudarte! Para asegurar una presentación rápida y eficiente, asegúrate de tener listos los siguientes documentos requeridos para tus TAXES",
+    "section_subtitle": "Temporada de impuestos",
+    "section_title": "Preparación de impuestos",
+    "section_description": "¡La temporada de impuestos ha comenzado y estoy aquí para ayudarte! Para asegurar una presentación rápida y eficiente, asegúrate de tener listos los siguientes documentos requeridos para tus TAXES 2025",
+    "section_description2": "REQUISITOS:\n\nINGRESOS:\n• Formularios W2 o 1099-NEC \n\nCLIENTE:\n• Social Security \n• Driver License \n• Acta de Matrimonio (si declara casado) \n• Forma 1095-A\n\nDEPENDIENTES:\n• Social Security\n• Partida de Nacimiento\n• Prueba de Residencia (carta de la escuela, vacunas, etc.)\n",
+    "section_description3": "No dudes en contactarme si tienes alguna pregunta o necesitas ayuda con tu declaración de impuestos.\n¡Estoy aquí para ayudarte a maximizar tu devolución y asegurar que todo esté en orden!"
+  },
+  "PrivacyPolicy": {
+    "meta_title": "MV Consulting - Políticas de privacidad",
+    "meta_description": "Políticas de privacidad de MV Consulting",
+    "section_subtitle": "Políticas de privacidad",
+    "section_title": "Políticas de privacidad de MV Consulting",
+    "section_description": "SMS Communication Policy for MV Consulting LLC\n\n Objective\nOur company assists individuals in preparing immigration documents. SMS communication is used exclusively for:\n•       Addressing customer inquiries.\n•       Sending reminders for scheduled appointments.\n•       Informing customers about important deadlines and dates.\n\nCustomer Authorization\nAll customers voluntarily provide their phone numbers to receive SMS updates when they contact us through our business cards, Instagram page, or other channels. By reaching out to us, customers agree to receive text messages for the purposes outlined above.\n\nMessage Frequency\nText messages will only be sent as needed. Typically, customers will receive messages in the following cases:\n•       When they have questions regarding their immigration process.\n•       When an appointment is scheduled.\n•       When a reminder is required for an important deadline.\n\nOn average, customers can expect to receive 4 to 6 messages per month, depending on their needs and the progress of their immigration case.\n\nOpt-Out Process\nCustomers can stop receiving text messages at any time by replying “STOP” to any message. Once we receive the request, we will immediately cease sending further messages, except to confirm the cancellation.\n\nData Security\nWe do not share or sell customer phone numbers or personal information with third parties. Customer data is securely stored, and all SMS communications are conducted in compliance with applicable privacy and data protection laws.\n\nMessage and Data Rates\nStandard message and data rates may apply based on the customer’s mobile carrier. Any costs related to sending or receiving text messages are the responsibility of the customer.\n\nBusiness Identification\nAll SMS messages will clearly identify our company as the sender. Our contact information, including our phone number and Instagram handle, can be found on our business cards and social media profiles.\n\nSupport Hours\nWe respond to SMS inquiries Monday through Friday, from 9:00 AM to 5:00 PM. Messages sent outside of these hours will be addressed as soon as possible on the next business day."
+  },
+  "TermsOfService": {
+    "meta_title": "MV Consulting - Términos y condiciones",
+    "meta_description": "Términos y condiciones de MV Consulting"
+  },
+  "AboutUs": {
+    "meta_title": "MV Consulting - Nosotros",
+    "meta_description": "Conoce más sobre MV Consulting",
+    "section_subtitle": "Sobre nosotros",
+    "section_title": "Nosotros",
+    "mission": "Misión",
+    "vision": "Visión",
+    "section_description": "Somos una empresa de servicios integrales en el área de inmigración y legal, con más de 10 años de experiencia en el mercado.\n\n Nuestro objetivo es ser un aliado estratégico para las personas que buscan mejorar su calidad de vida y su bienestar, a través de la inmigración y el legal. Nos esforzamos por brindar un servicio de calidad, con un trato amable y profesional, que nos permita ayudar a las personas a alcanzar su máximo potencial en el mundo laboral y personal, brindando servicios de inmigración y legal, con el fin de que puedan disfrutar de una vida plena y exitosa.",
+    "section_description2": "Nuestra misión es ayudar a las personas a alcanzar su máximo potencial en el mundo laboral y personal, brindando servicios de inmigración y legal, con el fin de que puedan disfrutar de una vida plena y exitosa.",
+    "section_description3": "Nuestra visión es ser una empresa líder en el mercado, que brinde servicios de inmigración y legal, con el fin de que las personas puedan disfrutar de una vida plena y exitosa."
+  },
+  "ContactUs": {
+    "meta_title": "MV Consulting - Contactos",
+    "meta_description": "Contáctanos para más información",
+    "section_subtitle": "Consulta gratuita",
+    "section_title": "Contactos",
+    "section_description": "Contáctanos para más información",
+    "fullname": "Nombre completo",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "submit": "Enviar",
+    "submitting": "Enviando...",
+    "success": "Mensaje enviado con éxito",
+    "error": "Ocurrió un error al enviar el mensaje",
+    "request": "Tipo de solicitud",
+    "request_select": "Seleccione el tipo de solicitud",
+    "request_options": {
+      "request1": "PREPARACION DE FORMAS MIGRATORIAS",
+      "request2": "PERMISO DE TRABAJO",
+      "request3": "ASILO DEFENSIVO",
+      "request4": "ASILO AFIRMATIVO",
+      "request5": "PETICION FAMILIAR",
+      "request6": "RESIDENCIA",
+      "request7": "TRADUCCIONES",
+      "request8": "CUALQUIER OTRO TRAMITE MIGRATORIO",
+      "request9": "PREPARACION DE TAXES PERSONALES Y CORPORATIVOS",
+      "request10": "SEGUROS DE VIDA, SALUD Y COMPLEMENTARIOS",
+      "request11": "NOTARY PUBLIC FL",
+      "request12": "DIVORCIOS",
+      "request13": "MATRIMONIOS",
+      "request14": "NOTARIZACION DE DOCUMENTOS",
+      "other": "Otro"
+    }
+  },
+  "RequestAppointment": {
+    "meta_title": "MV Consulting - Solicitar una cita",
+    "meta_description": "Solicita una cita con MV Consulting"
+  },
+  "RequestForm": {
+    "title_bar": "MV Consulting - Solicitar una cita",
+    "request_form_section_title": "Solicitar una cita",
+    "request_form_section_description": "Complete el formulario a continuación para solicitar una cita"
+  },
+  "RequestFormFields": {
+    "name_label": "Nombre",
+    "name_description": "Ingrese su nombre completo",
+    "email_label": "Correo electrónico",
+    "email_description": "Ingrese su dirección de correo electrónico",
+    "phone_label": "Teléfono",
+    "phone_description": "Ingrese su número de teléfono",
+    "message_label": "Mensaje",
+    "message_description": "Ingrese un mensaje detallado",
+    "submit_button": "Enviar"
+  },
+  "RequestConfirmation": {
+    "title_bar": "Confirmación de solicitud",
+    "message_state_title": "Solicitud enviada",
+    "message_state_description": "Su solicitud ha sido enviada con éxito. Nos pondremos en contacto con usted lo antes posible.",
+    "message_state_button": "Volver a la página de inicio"
+  },
+  "TermsConditions": {
+    "meta_title": "MV Consulting - Terms and conditions",
+    "meta_description": "Terms and conditions of MV Consulting",
+    "section_subtitle": "Terms and conditions",
+    "section_title": "Terms and conditions of MV Consulting"
+  },
+  "Footer": {
+    "home": "Inicio",
+    "about_us": "Nosotros",
+    "services": "Servicios",
+    "requests": "Solicitudes",
+    "contacts": "Contactos",
+    "company": "Empresa",
+    "terms_of_service": "Términos y condiciones",
+    "privacy_policy": "Políticas de privacidad",
+    "designed_by": "Desarrollado por <author></author>."
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "No tienes permisos suficientes para acceder a esta página."
+  },
+  "SignIn": {
+    "meta_title": "Iniciar sesión",
+    "meta_description": "Inicie sesión en su cuenta con su dirección de correo electrónico y contraseña."
+  },
+  "SignUp": {
+    "meta_title": "Registrarse",
+    "meta_description": "Regístrese en su cuenta con su dirección de correo electrónico y contraseña."
+  },
+  "DashboardLayout": {
+    "home": "Home",
+    "todos": "Todos",
+    "members": "Members",
+    "billing": "Billing",
+    "settings": "Settings"
+  },
+  "Dashboard": {
+    "meta_title": "MV Consulting Dashboard",
+    "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+  },
+  "DashboardIndex": {
+    "title_bar": "Dashboard",
+    "title_bar_description": "Welcome to your dashboard",
+    "message_state_title": "Let's get started",
+    "message_state_description": "You can customize this page by editing the file at <code>dashboard/page.tsx</code>",
+    "message_state_button": "Star on GitHub",
+    "message_state_alternative": "Want more features using the same stack? Try <url></url>."
+  },
+  "UserProfile": {
+    "title_bar": "User Profile",
+    "title_bar_description": "View and manage your user profile"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Organization Management",
+    "title_bar_description": "Manage your organization"
+  },
+  "Billing": {
+    "title_bar": "Billing",
+    "title_bar_description": "Manage your billing and subscription",
+    "current_section_title": "Current Plan",
+    "current_section_description": "Adjust your payment plan to best suit your requirements",
+    "manage_subscription_button": "Manage Subscription"
+  },
+  "BillingOptions": {
+    "current_plan": "Current Plan",
+    "upgrade_plan": "Get Started"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Payment Confirmation",
+    "message_state_title": "Payment successful",
+    "message_state_description": "Your payment has been successfully processed. Thank you for your purchase!",
+    "message_state_button": "Go back to Billing"
+  },
+  "DataTable": {
+    "no_results": "No results."
+  },
+  "Todos": {
+    "title_bar": "Todo List",
+    "title_bar_description": "View and manage your todo list",
+    "add_todo_button": "New todo"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Open menu",
+    "edit": "Edit",
+    "delete": "Delete",
+    "title_header": "Title",
+    "message_header": "Message",
+    "created_at_header": "Created at"
+  },
+  "AddTodo": {
+    "title_bar": "Add Todo",
+    "add_todo_section_title": "Create a new todo",
+    "add_todo_section_description": "Fill in the form below to create a new todo"
+  },
+  "EditTodo": {
+    "title_bar": "Edit todo",
+    "edit_todo_section_title": "Modify todo",
+    "edit_todo_section_description": "Fill in the form below to edit the todo"
+  },
+  "TodoForm": {
+    "title_label": "Title",
+    "title_description": "Enter a descriptive title for your todo.",
+    "message_title": "Message",
+    "message_description": "Enter a detailed message for your todo.",
+    "submit_button": "Submit"
+  }
+}

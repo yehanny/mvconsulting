@@ -1,43 +1,49 @@
 {
   "Index": {
-    "meta_title": "SaaS Template - The perfect SaaS template to build and scale your business with ease.",
-    "meta_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+    "meta_title": "MV Consulting",
+    "meta_description": "Comprehensive services company in the immigration and legal area"
+  },
+  "StickyTopBanner": {
+    "banner_title": "IMPORTANT",
+    "banner_description": "TAX SEASON STARTED"
   },
   "Navbar": {
+    "home": "Home",
+    "about_us": "About Us",
+    "services": "Services",
+    "requests": "Requests",
+    "contacts": "Contacts",
     "sign_in": "Sign In",
-    "sign_up": "Sign Up",
-    "product": "Product",
-    "docs": "Docs",
-    "blog": "Blog",
-    "community": "Community",
-    "company": "Company"
+    "sign_up": "Sign Up"
   },
   "Hero": {
-    "follow_twitter": "Follow @Ixartz on Twitter",
-    "title": "The perfect <important>SaaS template</important> to build and scale your business with ease.",
-    "description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "follow_instagram": "Follow @mvconsultingusa on Instagram",
+    "title": "Welcome to <important>MV Consulting</important>",
+    "description": "Comprehensive services company in the immigration and legal area",
     "primary_button": "Get Started",
-    "secondary_button": "Star on GitHub"
+    "secondary_button": "Start on with Us"
   },
-  "Sponsors": {
-    "title": "Sponsored by"
-  },
-  "Features": {
-    "section_subtitle": "Features",
-    "section_title": "Unlock the Full Potential of the SaaS Template",
-    "section_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
-    "feature1_title": "Node.js",
-    "feature2_title": "React",
-    "feature3_title": "Tailwind CSS",
-    "feature4_title": "TypeScript",
-    "feature5_title": "Shadcn UI",
-    "feature6_title": "ESLint",
-    "feature_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+  "Services": {
+    "section_subtitle": "Services",
+    "section_title": "Immigration and Legal Services",
+    "section_description": "Comprehensive services company in the immigration and legal area",
+    "service1_title": "Tax Preparation",
+    "service1_description": "Accurate and efficient filings, maximizing your deductions",
+    "service2_title": "Immigration Services",
+    "service2_description": "Comprehensive advice on migration processes, including citizenships, residencies, asylum, work permits TPS",
+    "service3_title": "Health Insurance",
+    "service3_description": "Health insurance for employees and dependents, with medical and medical expense coverage, including medical assistance, medical expenses, dental assistance, and more",
+    "service4_title": "Translation Services",
+    "service4_description": "Translation of documents, contracts, legal documents, and more to ensure effective communication",
+    "service5_title": "Notary Services",
+    "service5_description": "Legal advice on notarial processes for document authentication, contracts, and more",
+    "service6_title": "Asylum Services",
+    "service6_description": "Legal advice on asylum processes, including advice on political asylum processes, humanitarian asylum, and more"
   },
   "Pricing": {
     "section_subtitle": "Features",
-    "section_title": "Unlock the Full Potential of the SaaS Template",
-    "section_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "section_title": "Unlock the Full Potential of the MV Consulting",
+    "section_description": "Comprehensive services company in the immigration and legal area",
     "button_text": "Get Started"
   },
   "PricingPlan": {
@@ -56,22 +62,147 @@
     "plan_interval_year": "year",
     "next_renew_date": "Your subscription renews on {date}"
   },
-  "FAQ": {
-    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit."
+  "ImmigrationExpert": {
+    "section_subtitle": "Immigration and Legal",
+    "section_title": "Immigration Experts",
+    "section_description": "Your forms, our hands",
+    "button_text": "Request an appointment",
+    "immigration1_title": "Immigration",
+    "immigration1_description": "Our immigration experience gives you peace of mind. We will guide you through every step of the migration process",
+    "immigration2_title": "Form Preparation",
+    "immigration2_description": "Don't risk costly mistakes. Leave your forms in the best hands"
+  },
+  "Nationality": {
+    "section_subtitle": "Nationalities",
+    "section_title": "Citizenship and Residency",
+    "section_description": "Your dreams, our expertise",
+    "nationality1_title": "Citizenship Forms",
+    "nationality1_description": "We help you achieve United States citizenship",
+    "nationality2_title": "Permanent Residency",
+    "nationality2_description": "We help you apply for and obtain your green card"
   },
   "CTA": {
-    "title": "You are ready?",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "button_text": "Star on GitHub"
+    "title": "Need help?",
+    "description": "We will attend to your information request as soon as possible",
+    "button_text": "Contact Us"
+  },
+  "Asylum": {
+    "section_subtitle": "Asylum",
+    "section_title": "Asylum, Work Permits and TPS",
+    "section_description": "Your protection, our priority",
+    "asylum1_title": "Asylum Application",
+    "asylum1_description": "We help you with the political asylum process in the United States",
+    "asylum2_title": "Work Permits",
+    "asylum2_description": "We help you obtain permits to work legally in the United States",
+    "asylum3_title": "TPS",
+    "asylum3_description": "We advise you on temporary protection and TPS benefits"
+  },
+  "TaxSeason": {
+    "meta_title": "MV Consulting - Tax Season",
+    "meta_description": "Tax season has begun and I'm here to help! To ensure a quick and efficient filing, make sure you have the following required documents ready for your TAXES",
+    "section_subtitle": "Tax Season",
+    "section_title": "Tax Preparation",
+    "section_description": "Tax season has begun and I'm here to help! To ensure a quick and efficient filing, make sure you have the following required documents ready for your 2025 TAXES",
+    "section_description2": "REQUIREMENTS:\n\nINCOME:\n• W2 Forms or 1099-NEC \n\nCLIENT:\n• Social Security \n• Driver License \n• Marriage Certificate (if filing married) \n• Form 1095-A\n\nDEPENDENTS:\n• Social Security\n• Birth Certificate\n• Proof of Residence (school letter, vaccinations, etc.)\n",
+    "section_description3": "Don't hesitate to contact me if you have any questions or need help with your tax return.\nI'm here to help you maximize your return and ensure everything is in order!"
+  },
+  "PrivacyPolicy": {
+    "meta_title": "MV Consulting - Privacy Policy",
+    "meta_description": "Privacy Policy of MV Consulting",
+    "section_subtitle": "Privacy Policy",
+    "section_title": "Privacy Policy of MV Consulting",
+    "section_description": "SMS Communication Policy for MV Consulting LLC\n\n Objective\nOur company assists individuals in preparing immigration documents. SMS communication is used exclusively for:\n•       Addressing customer inquiries.\n•       Sending reminders for scheduled appointments.\n•       Informing customers about important deadlines and dates.\n\nCustomer Authorization\nAll customers voluntarily provide their phone numbers to receive SMS updates when they contact us through our business cards, Instagram page, or other channels. By reaching out to us, customers agree to receive text messages for the purposes outlined above.\n\nMessage Frequency\nText messages will only be sent as needed. Typically, customers will receive messages in the following cases:\n•       When they have questions regarding their immigration process.\n•       When an appointment is scheduled.\n•       When a reminder is required for an important deadline.\n\nOn average, customers can expect to receive 4 to 6 messages per month, depending on their needs and the progress of their immigration case.\n\nOpt-Out Process\nCustomers can stop receiving text messages at any time by replying 'STOP' to any message. Once we receive the request, we will immediately cease sending further messages, except to confirm the cancellation.\n\nData Security\nWe do not share or sell customer phone numbers or personal information with third parties. Customer data is securely stored, and all SMS communications are conducted in compliance with applicable privacy and data protection laws.\n\nMessage and Data Rates\nStandard message and data rates may apply based on the customer's mobile carrier. Any costs related to sending or receiving text messages are the responsibility of the customer.\n\nBusiness Identification\nAll SMS messages will clearly identify our company as the sender. Our contact information, including our phone number and Instagram handle, can be found on our business cards and social media profiles.\n\nSupport Hours\nWe respond to SMS inquiries Monday through Friday, from 9:00 AM to 5:00 PM. Messages sent outside of these hours will be addressed as soon as possible on the next business day."
+  },
+  "TermsOfService": {
+    "meta_title": "MV Consulting - Terms and Conditions",
+    "meta_description": "Terms and Conditions of MV Consulting"
+  },
+  "AboutUs": {
+    "meta_title": "MV Consulting - About Us",
+    "meta_description": "Learn more about MV Consulting",
+    "section_subtitle": "About Us",
+    "section_title": "About Us",
+    "mission": "Mission",
+    "vision": "Vision",
+    "section_description": "We are a comprehensive services company in immigration and legal areas, with over 10 years of experience in the market.\n\n Our goal is to be a strategic ally for people seeking to improve their quality of life and wellbeing through immigration and legal services. We strive to provide quality service with friendly and professional treatment, helping people reach their maximum potential in work and personal life by providing immigration and legal services, so they can enjoy a full and successful life.",
+    "section_description2": "Our mission is to help people reach their maximum potential in work and personal life by providing immigration and legal services, so they can enjoy a full and successful life.",
+    "section_description3": "Our vision is to be a leading company in the market, providing immigration and legal services, so that people can enjoy a full and successful life."
+  },
+  "ContactUs": {
+    "meta_title": "MV Consulting - Contact",
+    "meta_description": "Contact us for more information",
+    "section_subtitle": "Free Consultation",
+    "section_title": "Contact",
+    "section_description": "Contact us for more information",
+    "fullname": "Full name",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "success": "Message sent successfully",
+    "error": "An error occurred while sending the message",
+    "request": "Request Type",
+    "request_select": "Select request type",
+    "request_options": {
+      "request1": "IMMIGRATION FORM PREPARATION",
+      "request2": "WORK PERMIT",
+      "request3": "DEFENSIVE ASYLUM",
+      "request4": "AFFIRMATIVE ASYLUM",
+      "request5": "FAMILY PETITION",
+      "request6": "RESIDENCY",
+      "request7": "TRANSLATIONS",
+      "request8": "ANY OTHER IMMIGRATION PROCESS",
+      "request9": "PERSONAL AND CORPORATE TAX PREPARATION",
+      "request10": "LIFE, HEALTH AND SUPPLEMENTAL INSURANCE",
+      "request11": "NOTARY PUBLIC FL",
+      "request12": "DIVORCES",
+      "request13": "MARRIAGES",
+      "request14": "DOCUMENT NOTARIZATION",
+      "other": "Other"
+    }
+  },
+  "RequestAppointment": {
+    "meta_title": "MV Consulting - Request an Appointment",
+    "meta_description": "Request an appointment with MV Consulting"
+  },
+  "RequestForm": {
+    "title_bar": "MV Consulting - Request an Appointment",
+    "request_form_section_title": "Request an Appointment",
+    "request_form_section_description": "Complete the form below to request an appointment"
+  },
+  "RequestFormFields": {
+    "name_label": "Name",
+    "name_description": "Enter your full name",
+    "email_label": "Email",
+    "email_description": "Enter your email address",
+    "phone_label": "Phone",
+    "phone_description": "Enter your phone number",
+    "message_label": "Message",
+    "message_description": "Enter a detailed message",
+    "submit_button": "Submit"
+  },
+  "RequestConfirmation": {
+    "title_bar": "Request Confirmation",
+    "message_state_title": "Request sent",
+    "message_state_description": "Your request has been sent successfully. We will contact you as soon as possible.",
+    "message_state_button": "Return to homepage"
+  },
+  "TermsConditions": {
+    "meta_title": "MV Consulting - Terms and conditions",
+    "meta_description": "Terms and conditions of MV Consulting",
+    "section_subtitle": "Terms and conditions",
+    "section_title": "Terms and conditions of MV Consulting"
   },
   "Footer": {
-    "product": "Product",
-    "docs": "Docs",
-    "blog": "Blog",
-    "community": "Community",
+    "home": "Home",
+    "about_us": "About Us",
+    "services": "Services",
+    "requests": "Requests",
+    "contacts": "Contacts",
     "company": "Company",
-    "terms_of_service": "Terms Of Service",
+    "terms_of_service": "Terms and Conditions",
     "privacy_policy": "Privacy Policy",
     "designed_by": "Designed by <author></author>."
   },
@@ -94,7 +225,7 @@
     "settings": "Settings"
   },
   "Dashboard": {
-    "meta_title": "SaaS Template Dashboard",
+    "meta_title": "MV Consulting Dashboard",
     "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
   },
   "DashboardIndex": {
