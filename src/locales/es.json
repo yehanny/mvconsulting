@@ -1,7 +1,7 @@
 {
   "Index": {
     "meta_title": "MV Consulting",
-    "meta_description": "Empresa de servicios integrales en el área de inmigración y legal"
+    "meta_description": "Empresa de servicios integrales en el área de inmigración, impuestos y seguros"
   },
   "StickyTopBanner": {
     "banner_title": "Recordatorio",
@@ -19,7 +19,7 @@
   "Hero": {
     "follow_instagram": "Sigueme @mvconsultingusa en Instagram",
     "title": "Bienvenido a <important>MV Consulting</important>",
-    "description": "Empresa de servicios integrales en el área de inmigración y legalidales",
+    "description": "Empresa de servicios integrales en el área de inmigración, impuestos y seguros",
     "primary_button": "Empezar",
     "secondary_button": "Comenzar con Nosotros"
   },
@@ -27,18 +27,16 @@
     "section_subtitle": "Servicios",
     "section_title": "Servicios de inmigración y legalidades",
     "section_description": "Empresa de servicios integrales en el área de inmigración y legal",
-    "service1_title": "Preparación de impuestos",
-    "service1_description": "Declaraciones precisas y eficientes, maximixando sus deducciones",
-    "service2_title": "Servicios de inmigración",
-    "service2_description": "Asesoría integral en procesos migratorios, inluyendo ciudadanías, residencias, asilo, permisos de trabajo TPS",
-    "service3_title": "Seguros de salud",
-    "service3_description": "Seguros de salud para empleados y dependientes, con coberturas médicas y de gastos médicos, incluyendo asistencia médica, gastos médicos, y asistencia dental, y más",
-    "service4_title": "Servicios de traducción",
-    "service4_description": "Traducción de documentos, contratos, documentos legales, y más para garantizar una comunicación efectiva",
-    "service5_title": "Servicios de notaría",
-    "service5_description": "Asesoría legal en procesos notariales para autenticación de documentos, contratos, y más",
-    "service6_title": "Servicios de asilos",
-    "service6_description": "Asesoría legal en procesos de asilo, incluyendo asesoría en procesos de asilo político, asilo humanitario, y más"
+    "service1_title": "TRÁMITES MIGRATORIOS",
+    "service1_description": "ASILO DEFENSIVO Y AFIRMATIVO,PERMISO DE TRABAJO,TPS,PAROLE HUMANITARIO,RESIDENCIA,PETICIÓN FAMILIAR,CIUDADANÍA,AJUSTE DE ESTATUS,PERMISO DE VIAJE,FEE WAIBER,CAMBIO DE DIRECCIÓN,CONEXIÓN CON ABOGADO",
+    "service2_title": "TRÁMITES TRIBUTARIOS",
+    "service2_description": "PREPARACIÓN DE TAXES PERSONALES Y CORPORATIVOS,ITIN NUMBER,CREACIÓN DE EMPRESAS,EIN",
+    "service3_title": "NOTARY PUBLIC",
+    "service3_description": "MATRIMONIOS,DIVORCIOS,CERTIFICACIÓN DE DOCUMENTOS,FE DE VIDA",
+    "service4_title": "SEGUROS",
+    "service4_description": "SEGUROS DE SALUD,SEGUROS DE VIDA,SEGUROS COMPLEMENTARIOS",
+    "service5_title": "TRADUCCIONES",
+    "service5_description": "TRADUCCIONES DE TODO TIPO DE DOCUMENTACIÓN LEGAL"
   },
   "ImmigrationExpert": {
     "section_subtitle": "Inmigración y legalidades",
@@ -102,9 +100,9 @@
     "section_title": "Nosotros",
     "mission": "Misión",
     "vision": "Visión",
-    "section_description": "Somos una empresa de servicios integrales en el área de inmigración y legal, con más de 10 años de experiencia en el mercado.\n\n Nuestro objetivo es ser un aliado estratégico para las personas que buscan mejorar su calidad de vida y su bienestar, a través de la inmigración y el legal. Nos esforzamos por brindar un servicio de calidad, con un trato amable y profesional, que nos permita ayudar a las personas a alcanzar su máximo potencial en el mundo laboral y personal, brindando servicios de inmigración y legal, con el fin de que puedan disfrutar de una vida plena y exitosa.",
-    "section_description2": "Nuestra misión es ayudar a las personas a alcanzar su máximo potencial en el mundo laboral y personal, brindando servicios de inmigración y legal, con el fin de que puedan disfrutar de una vida plena y exitosa.",
-    "section_description3": "Nuestra visión es ser una empresa líder en el mercado, que brinde servicios de inmigración y legal, con el fin de que las personas puedan disfrutar de una vida plena y exitosa."
+    "section_description": "En nuestra empresa, nos dedicamos a proporcionar servicios integrales que apoyan a la comunidad inmigrante en Estados Unidos en su proceso de estabilización legal. Nuestro objetivo es proteger a sus familias y guiarlas en la construcción de un camino hacia la realización de sus sueños. \n\nOfrecemos herramientas y pasos claros para facilitar su legalización y la gestión de los trámites necesarios según la legislación vigente. Nos esforzamos por brindar un servicio de alta calidad, caracterizado por un trato amable y profesional. Estamos aquí para acompañarlos en cada etapa de su proceso, ofreciéndoles el apoyo y la conﬁanza necesarios para iniciar su nueva vida",
+    "section_description2": "Brindar servicios integrales en el ámbito de inmigración, impuestos y seguros, con un equipo de profesionales altamente caliﬁcados que poseen sólidos conocimientos y experiencia en sus áreas. Nos comprometemos a buscar la excelencia mediante la productividad, la responsabilidad, la conﬁabilidad y la seguridad de la información. Nuestro objetivo es garantizar la satisfacción de nuestros clientes y posicionarnos como líderes en servicios integrales.",
+    "section_description3": "Convertirnos en la empresa líder y de conﬁanza en servicios integrales para la comunidad inmigrante en EE. UU., reconocida por nuestra capacidad para apoyar familias y facilitar la integración social. Buscamos destacarnos en el mercado como una organización proactiva e innovadora, comprometida con la excelencia en el servicio. Valoramos las relaciones sólidas y beneﬁciosas tanto con nuestros empleados como con nuestros clientes, creando un impacto positivo en cada comunidad que servimos."
   },
   "ContactUs": {
     "meta_title": "MV Consulting - Contactos",

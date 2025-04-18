@@ -1,3 +1,4 @@
+'use client';
 import { InstagramLogoIcon } from '@radix-ui/react-icons';
 import { useTranslations } from 'next-intl';
 
@@ -23,6 +24,7 @@ export const Hero = () => {
             {' '}
             {t('follow_instagram')}
           </a>
+
         )}
         title={t.rich('title', {
           important: chunks => (
@@ -35,7 +37,7 @@ export const Hero = () => {
         buttons={(
           <a
             className={buttonVariants({ size: 'lg' })}
-            href="/contact"
+            href="/contacts"
           >
             {t('primary_button')}
           </a>

@@ -1,4 +1,6 @@
-import { defineConfig } from 'checkly';
+// @ts-expect-error Function not used
+import defineConfig from 'checkly';
+// @ts-expect-error Function not used
 import { EmailAlertChannel, Frequency } from 'checkly/constructs';
 
 const sendDefaults = {

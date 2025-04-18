@@ -12,6 +12,7 @@ export const ServiceCard = (props: {
 
     <div className="my-3 w-8 border-t border-[#98BAC3]" />
 
+    {/* Add line breaks using \n */}
     <div className="mt-2 text-muted-foreground">{props.children}</div>
   </div>
 );

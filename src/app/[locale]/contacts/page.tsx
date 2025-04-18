@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import { getTranslations, unstable_setRequestLocale } from 'next-intl/server';
 
@@ -50,11 +51,14 @@ const ContactsPage = (props: { params: { locale: string } }) => {
       <div className="container mx-auto max-w-screen-lg">
         <div className="grid grid-cols-1 items-center gap-4 p-4 md:grid-cols-2">
           <div className="p-4">
-            <GoogleMap />
+            <Image width={380} height={640} src="/assets/images/mariceli1.webp" alt="About Us" className="min-w-full rounded-2xl sm:min-w-min" />
           </div>
           <div className="p-4">
             <ContactsForm />
           </div>
+        </div>
+        <div>
+          <GoogleMap />
         </div>
       </div>
     </>
