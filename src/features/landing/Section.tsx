@@ -16,7 +16,8 @@ export const Section = (props: {
   <InView>
     {({ inView, ref }) => (
 
-      <div
+      <section
+        id={props.id}
         className={cn('px-3 py-16', props.className)}
         style={{
           backgroundImage: `url(${props.backgroundImage})`,
@@ -69,7 +70,7 @@ export const Section = (props: {
         )}
 
         <div className="mx-auto max-w-screen-lg">{props.children}</div>
-      </div>
+      </section>
     )}
   </InView>
 );

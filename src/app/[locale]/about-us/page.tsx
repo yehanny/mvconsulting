@@ -34,7 +34,7 @@ const AboutUs = (props: { params: { locale: string } }) => {
       </Section>
       <div className="container mx-auto max-w-screen-lg">
         <div className="my-20 grid grid-cols-1 items-center gap-4 sm:grid-cols-2">
-          <Image width={380} height={640} src="/assets/images/mariceli2.webp" alt="About Us" className="min-w-full rounded-2xl sm:min-w-min" />
+          <Image width={380} height={640} src="/assets/images/mariceli4.webp" alt="About Us" className="min-w-full rounded-2xl sm:min-w-min" />
           <p className="whitespace-pre-line">
             {t('section_description')}
           </p>

@@ -36,7 +36,7 @@ export const CenteredHero = (props: {
           animate={inView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.5, delay: 0.2 }}
         >
-          <div className="mx-auto mt-5 max-w-screen-md text-center text-xl text-muted-foreground">
+          <div className="mx-auto mt-5 max-w-screen-md text-center text-xl">
             {props.description}
           </div>
         </motion.div>

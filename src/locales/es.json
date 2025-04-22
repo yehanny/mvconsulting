@@ -25,8 +25,8 @@
   },
   "Services": {
     "section_subtitle": "Servicios",
-    "section_title": "Servicios de inmigración y legalidades",
-    "section_description": "Empresa de servicios integrales en el área de inmigración y legal",
+    "section_title": "Servicios de inmigración, impuestos y seguros",
+    "section_description": "Empresa de servicios integrales en el área de inmigración, impuestos y seguros",
     "service1_title": "TRÁMITES MIGRATORIOS",
     "service1_description": "ASILO DEFENSIVO Y AFIRMATIVO,PERMISO DE TRABAJO,TPS,PAROLE HUMANITARIO,RESIDENCIA,PETICIÓN FAMILIAR,CIUDADANÍA,AJUSTE DE ESTATUS,PERMISO DE VIAJE,FEE WAIBER,CAMBIO DE DIRECCIÓN,CONEXIÓN CON ABOGADO",
     "service2_title": "TRÁMITES TRIBUTARIOS",
@@ -36,17 +36,17 @@
     "service4_title": "SEGUROS",
     "service4_description": "SEGUROS DE SALUD,SEGUROS DE VIDA,SEGUROS COMPLEMENTARIOS",
     "service5_title": "TRADUCCIONES",
-    "service5_description": "TRADUCCIONES DE TODO TIPO DE DOCUMENTACIÓN LEGAL"
+    "service5_description": "TRADUCCIONES DE TODO TIPO DE DOCUMENTACIÓN"
   },
   "ImmigrationExpert": {
-    "section_subtitle": "Inmigración y legalidades",
+    "section_subtitle": "Inmigración, impuestos y seguros",
     "section_title": "Expertos en inmigración",
     "section_description": "Tus formas, nuestras manos",
     "button_text": "Solicitar una cita",
     "immigration1_title": "Immigración",
     "immigration1_description": "Nuestra experiencia en inmigración te brinda tranquilidad. Te guiaremos en cada paso del proceso migratorio",
     "immigration2_title": "Preparación de formas",
-    "immigration2_description": "No te arriesgues a errores costosos. Dejamos tus formularios en las mejores manos"
+    "immigration2_description": "No te arriesgues a errores costosos. Deja tus formularios en las mejores manos"
   },
   "Nationality": {
     "section_subtitle": "Nacionalidades",
@@ -69,7 +69,7 @@
     "asylum1_title": "Solicitud de asilo",
     "asylum1_description": "Te ayudamos en el proceso de asilo político en los Estados Unidos",
     "asylum2_title": "Permisos de trabajo",
-    "asylum2_description": "Te ayudamos a obtener permisos para trabajar legalmente en los Estados Unidos",
+    "asylum2_description": "Te ayudamos a obtener permisos para trabajar en los Estados Unidos",
     "asylum3_title": "TPS",
     "asylum3_description": "Te asesoramos sobre la protección temporal y los beneficios del TPS"
   },
@@ -100,7 +100,7 @@
     "section_title": "Nosotros",
     "mission": "Misión",
     "vision": "Visión",
-    "section_description": "En nuestra empresa, nos dedicamos a proporcionar servicios integrales que apoyan a la comunidad inmigrante en Estados Unidos en su proceso de estabilización legal. Nuestro objetivo es proteger a sus familias y guiarlas en la construcción de un camino hacia la realización de sus sueños. \n\nOfrecemos herramientas y pasos claros para facilitar su legalización y la gestión de los trámites necesarios según la legislación vigente. Nos esforzamos por brindar un servicio de alta calidad, caracterizado por un trato amable y profesional. Estamos aquí para acompañarlos en cada etapa de su proceso, ofreciéndoles el apoyo y la conﬁanza necesarios para iniciar su nueva vida",
+    "section_description": "En nuestra empresa, nos dedicamos a proporcionar servicios integrales que apoyan a la comunidad inmigrante en Estados Unidos en su proceso de estabilización formal. Nuestro objetivo es proteger a sus familias y guiarlas en la construcción de un camino hacia la realización de sus sueños. \n\nOfrecemos herramientas y pasos claros para facilitar su estabilización y la gestión de los trámites necesarios según la legislación vigente. Nos esforzamos por brindar un servicio de alta calidad, caracterizado por un trato amable y profesional. Estamos aquí para acompañarlos en cada etapa de su proceso, ofreciéndoles el apoyo y la conﬁanza necesarios para iniciar su nueva vida",
     "section_description2": "Brindar servicios integrales en el ámbito de inmigración, impuestos y seguros, con un equipo de profesionales altamente caliﬁcados que poseen sólidos conocimientos y experiencia en sus áreas. Nos comprometemos a buscar la excelencia mediante la productividad, la responsabilidad, la conﬁabilidad y la seguridad de la información. Nuestro objetivo es garantizar la satisfacción de nuestros clientes y posicionarnos como líderes en servicios integrales.",
     "section_description3": "Convertirnos en la empresa líder y de conﬁanza en servicios integrales para la comunidad inmigrante en EE. UU., reconocida por nuestra capacidad para apoyar familias y facilitar la integración social. Buscamos destacarnos en el mercado como una organización proactiva e innovadora, comprometida con la excelencia en el servicio. Valoramos las relaciones sólidas y beneﬁciosas tanto con nuestros empleados como con nuestros clientes, creando un impacto positivo en cada comunidad que servimos."
   },

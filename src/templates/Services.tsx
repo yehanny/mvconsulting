@@ -15,6 +15,7 @@ export const Services = () => {
   const services3 = t('service3_description').split(',');
   const services4 = t('service4_description').split(',');
   const services5 = t('service5_description').split(',');
+  const pillStyles = 'rounded-full bg-gray-100 px-3 py-2 list-none text-sm';
 
   return (
     <InView>
@@ -38,7 +39,7 @@ export const Services = () => {
                   title={t('service1_title')}
                 >
                   {services1.map((service, index) => (
-                    <li key={index} className="list-disc">
+                    <li key={index} className={pillStyles}>
                       {service}
                     </li>
                   ))}
@@ -48,7 +49,7 @@ export const Services = () => {
                   title={t('service2_title')}
                 >
                   {services2.map((service, index) => (
-                    <li key={index} className="list-disc">
+                    <li key={index} className={pillStyles}>
                       {service}
                     </li>
                   ))}
@@ -59,7 +60,7 @@ export const Services = () => {
                   title={t('service3_title')}
                 >
                   {services3.map((service, index) => (
-                    <li key={index} className="list-disc">
+                    <li key={index} className={pillStyles}>
                       {service}
                     </li>
                   ))}
@@ -69,7 +70,7 @@ export const Services = () => {
                   title={t('service4_title')}
                 >
                   {services4.map((service, index) => (
-                    <li key={index} className="list-disc">
+                    <li key={index} className={pillStyles}>
                       {service}
                     </li>
                   ))}
@@ -80,7 +81,7 @@ export const Services = () => {
                   title={t('service5_title')}
                 >
                   {services5.map((service, index) => (
-                    <li key={index} className="list-disc">
+                    <li key={index} className={pillStyles}>
                       {service}
                     </li>
                   ))}

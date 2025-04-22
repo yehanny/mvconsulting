@@ -11,7 +11,7 @@ export const Hero = () => {
   const t = useTranslations('Hero');
 
   return (
-    <Section className="py-36 md:py-52" backgroundImage="/assets/images/hero-background.webp">
+    <Section className="py-36 md:py-72" backgroundImage="/assets/images/hero-background.webp">
       <CenteredHero
         banner={(
           <a
