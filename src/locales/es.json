@@ -1,11 +1,14 @@
 {
   "Index": {
     "meta_title": "MV Consulting",
-    "meta_description": "Empresa de servicios integrales en el área de inmigración, impuestos y seguros"
+    "meta_description": "Empresa de servicios integrales en el área de inmigración, impuestos y seguros",
+    "important_notice_title": "Importante",
+    "important_notice": "MV Consulting no es un despacho de abogados ni brinda asesoría legal. Realizamos la preparación de documentos para trámites que se realizan por cuenta propia en EE. UU. La información que proporcionamos es de caracter general y no debe ser utilizada como asesoria legal. Antes de tomar cualquier accion basada en los materiales proporcionados en este sitio web, le recomendamos que busque asesoramiento legal especifico para su situacion particular."
   },
   "StickyTopBanner": {
-    "banner_title": "Recordatorio",
-    "banner_description": "INICIO DE LA TEMPORADA DE IMPUESTOS"
+    "banner_title": "NOTA",
+    "banner_description": "NO SOMOS ABOGADOS Y NO PODEMOS PROPORCIONARTE ASESORAMIENTO NI CONSEJOS LEGALES, NI REPRESENTARTE LEGALMENTE. SI NECESITAS ASESORÍA O REPRESENTACIÓN LEGAL, CONSULTA CON UN ABOGADO LICENCIADO EN THE FLORIDA BAR",
+    "banner_link": "#"
   },
   "Navbar": {
     "home": "Inicio",

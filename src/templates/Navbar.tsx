@@ -13,7 +13,7 @@ export const Navbar = () => {
   const t = useTranslations('Navbar');
 
   return (
-    <Section className="px-3 py-6">
+    <Section className="relative z-50 px-3 py-6">
       <InView>
         {({ ref, inView }) => (
           <motion.div
@@ -28,8 +28,8 @@ export const Navbar = () => {
                   src="/assets/images/logo-white.png"
                   alt="MV Consulting"
                   className=""
-                  width="190"
-                  height="70"
+                  width="220"
+                  height="100"
                 />
               )}
               rightMenu={(

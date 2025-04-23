@@ -4,6 +4,7 @@ import { Asylum } from '@/templates/Asylum';
 import { CTA } from '@/templates/CTA';
 import { Hero } from '@/templates/Hero';
 import { ImmigrationExpert } from '@/templates/ImmigrationExperts';
+import { ImportantNotice } from '@/templates/ImportantNotice';
 import { Nationality } from '@/templates/Nationality';
 import { Services } from '@/templates/Services';
 
@@ -29,6 +30,7 @@ const IndexPage = (props: { params: { locale: string } }) => {
       <ImmigrationExpert />
       <Nationality />
       <Asylum />
+      <ImportantNotice />
       <CTA />
     </>
   );

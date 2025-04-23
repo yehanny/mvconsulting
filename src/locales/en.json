@@ -1,11 +1,14 @@
 {
   "Index": {
     "meta_title": "MV Consulting",
-    "meta_description": "Comprehensive services company in the immigration and legal area"
+    "meta_description": "Comprehensive services company in the immigration, taxes and insurances",
+    "important_notice_title": "Important",
+    "important_notice": "MV Consulting is not a law firm and does not provide legal advice. We prepare documents for self-directed procedures in the U.S. The information we provide is general in nature and should not be used as legal advice. Before taking any action based on the materials provided on this website, we recommend that you seek legal advice specific to your particular situation."
   },
   "StickyTopBanner": {
-    "banner_title": "IMPORTANT",
-    "banner_description": "TAX SEASON STARTED"
+    "banner_title": "NOTA",
+    "banner_description": "We are not attorneys and cannot provide legal advice or counsel, nor can we represent you legally. If you need legal advice or representation, please consult with an attorney licensed by the Florida Bar.",
+    "banner_link": "#"
   },
   "Navbar": {
     "home": "Home",
@@ -19,14 +22,14 @@
   "Hero": {
     "follow_instagram": "Follow @mvconsultingusa on Instagram",
     "title": "Welcome to <important>MV Consulting</important>",
-    "description": "Comprehensive services company in the immigration and legal area",
+    "description": "Comprehensive services company in the immigration, taxes and insurances",
     "primary_button": "Get Started",
     "secondary_button": "Start on with Us"
   },
   "Services": {
     "section_subtitle": "Services",
-    "section_title": "Immigration and Legal Services",
-    "section_description": "Comprehensive services company in the immigration and legal area",
+    "section_title": "Immigration, Taxes and Insurances",
+    "section_description": "Comprehensive services company in the immigration, taxes and insurances",
     "service1_title": "Tax Preparation",
     "service1_description": "Accurate and efficient filings, maximizing your deductions",
     "service2_title": "Immigration Services",
@@ -34,16 +37,16 @@
     "service3_title": "Health Insurance",
     "service3_description": "Health insurance for employees and dependents, with medical and medical expense coverage, including medical assistance, medical expenses, dental assistance, and more",
     "service4_title": "Translation Services",
-    "service4_description": "Translation of documents, contracts, legal documents, and more to ensure effective communication",
+    "service4_description": "Translation of documents, contracts, documents, and more to ensure effective communication",
     "service5_title": "Notary Services",
-    "service5_description": "Legal advice on notarial processes for document authentication, contracts, and more",
+    "service5_description": "Advice on notarial processes for document authentication, contracts, and more",
     "service6_title": "Asylum Services",
-    "service6_description": "Legal advice on asylum processes, including advice on political asylum processes, humanitarian asylum, and more"
+    "service6_description": "Advice on asylum processes, including advice on political asylum processes, humanitarian asylum, and more"
   },
   "Pricing": {
     "section_subtitle": "Features",
     "section_title": "Unlock the Full Potential of the MV Consulting",
-    "section_description": "Comprehensive services company in the immigration and legal area",
+    "section_description": "Comprehensive services company in the immigration, taxes and insurances",
     "button_text": "Get Started"
   },
   "PricingPlan": {
@@ -63,7 +66,7 @@
     "next_renew_date": "Your subscription renews on {date}"
   },
   "ImmigrationExpert": {
-    "section_subtitle": "Immigration and Legal",
+    "section_subtitle": "Immigrations",
     "section_title": "Immigration Experts",
     "section_description": "Your forms, our hands",
     "button_text": "Request an appointment",
@@ -93,7 +96,7 @@
     "asylum1_title": "Asylum Application",
     "asylum1_description": "We help you with the political asylum process in the United States",
     "asylum2_title": "Work Permits",
-    "asylum2_description": "We help you obtain permits to work legally in the United States",
+    "asylum2_description": "We help you obtain permits to work in the United States",
     "asylum3_title": "TPS",
     "asylum3_description": "We advise you on temporary protection and TPS benefits"
   },
@@ -124,9 +127,9 @@
     "section_title": "About Us",
     "mission": "Mission",
     "vision": "Vision",
-    "section_description": "We are a comprehensive services company in immigration and legal areas, with over 10 years of experience in the market.\n\n Our goal is to be a strategic ally for people seeking to improve their quality of life and wellbeing through immigration and legal services. We strive to provide quality service with friendly and professional treatment, helping people reach their maximum potential in work and personal life by providing immigration and legal services, so they can enjoy a full and successful life.",
-    "section_description2": "Our mission is to help people reach their maximum potential in work and personal life by providing immigration and legal services, so they can enjoy a full and successful life.",
-    "section_description3": "Our vision is to be a leading company in the market, providing immigration and legal services, so that people can enjoy a full and successful life."
+    "section_description": "We are a comprehensive services company in immigration, taxes and insurancess, with over 10 years of experience in the market.\n\n Our goal is to be a strategic ally for people seeking to improve their quality of life and wellbeing through immigration, taxes and insurances. We strive to provide quality service with friendly and professional treatment, helping people reach their maximum potential in work and personal life by providing immigration, taxes and insurances, so they can enjoy a full and successful life.",
+    "section_description2": "Our mission is to help people reach their maximum potential in work and personal life by providing immigration, taxes and insurances, so they can enjoy a full and successful life.",
+    "section_description3": "Our vision is to be a leading company in the market, providing immigration, taxes and insurances, so that people can enjoy a full and successful life."
   },
   "ContactUs": {
     "meta_title": "MV Consulting - Contact",

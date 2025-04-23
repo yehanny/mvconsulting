@@ -3,12 +3,13 @@ import { useTranslations } from 'next-intl';
 
 import { StickyBanner } from '@/features/landing/StickyBanner';
 
-export const StickyTopBanner = () => {
+import type { StickyTopBannerProps } from '../types/StickyTopBannerProps';
+
+export const StickyTopBanner = ({ description, link }: StickyTopBannerProps) => {
   const t = useTranslations('StickyTopBanner');
   return (
     <StickyBanner>
-      {`${t('banner_title')} - `}
-      <Link href="/tax-season">{t('banner_description')}</Link>
+      <Link href={`/${t(link)}`}>{t(description)}</Link>
     </StickyBanner>
   );
 };

@@ -7,6 +7,7 @@ import { Toaster } from 'react-hot-toast';
 
 import { Footer } from '@/templates/Footer';
 import { Navbar } from '@/templates/Navbar';
+import { StickyTopBanner } from '@/templates/StickyTopBanner';
 import { AllLocales } from '@/utils/AppConfig';
 
 export const metadata: Metadata = {
@@ -60,6 +61,7 @@ export default function RootLayout(props: {
           locale={props.params.locale}
           messages={messages}
         >
+          <StickyTopBanner title="banner_title" description="banner_description" link="banner_link" />
           <Navbar />
           {props.children}
           <Footer />

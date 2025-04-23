@@ -15,12 +15,12 @@ export const Hero = () => {
       <CenteredHero
         banner={(
           <a
-            className={badgeVariants()}
+            className={`${badgeVariants()} z-10`}
             href="https://instagram.com/mvconsultingusa"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <InstagramLogoIcon className="mr-1 size-5" />
+            <InstagramLogoIcon className="z-10 mr-1 size-5" />
             {' '}
             {t('follow_instagram')}
           </a>
@@ -42,6 +42,7 @@ export const Hero = () => {
             {t('primary_button')}
           </a>
         )}
+        image="/assets/images/mariceli-hero.webp"
       />
     </Section>
   );
